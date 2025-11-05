@@ -25,7 +25,7 @@ def load_data(path: str):
     df = pd.read_csv(path)
     return df
 
-df = load_data("hierarchy-tree-app/Hierarchy.csv")
+df = load_data("Hierarchy.csv")
 
 # ------------------------------------------------------------
 # Sidebar: Optionally upload alternative CSV
