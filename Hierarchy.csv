@@ -1,0 +1,230 @@
+﻿Data Domain L1,Data Domain L2,Data Domain L3
+Finance,"Controlling, planning and perform. Mgmt.",Controlling Area
+Finance,"Controlling, planning and perform. Mgmt.","Cost Centers (Hierarchy, Groups)"
+Finance,"Controlling, planning and perform. Mgmt.",Cost Element Hierarchy (including Protein)
+Finance,"Controlling, planning and perform. Mgmt.",Internal Order
+Finance,"Controlling, planning and perform. Mgmt.",Financial Product Reporting Structures
+Finance,"Controlling, planning and perform. Mgmt.",Volume sold 
+Finance,"Controlling, planning and perform. Mgmt.",Gross to net sales
+Finance,"Controlling, planning and perform. Mgmt.",Volume produced valorization
+Finance,"Controlling, planning and perform. Mgmt.",Profit center & Profit Center Hierarchy
+Finance,Finance Organization Structure,Company Code
+Finance,Finance Organization Structure,Trading partner (= reporting unit)
+Finance,Finance Organization Structure,Legal entity
+Finance,Finance Organization Structure,Segments (Business area)
+Finance,Finance Organization Structure,Interco Golden set MD
+Finance,Reporting Structure,"Consolidated
+ Legal Entry (=Reporting unit)"
+Finance,Reporting Structure,Technical Hierarchy structure
+Finance,Reporting Structure,Customer Intercompany & hierarchy
+Finance,Reporting Structure,Finance Product attributes
+Finance,Reporting Structure,Magnitude hierarchy
+Finance,Strategic Finance,Environmental KPI’S
+Finance,Strategic Finance,Social KPI’s
+Finance,Taxes,Distribution Types for gross income tax
+Finance,Taxes,Tax classification conditions
+Finance,Taxes,Taxes for materials
+Finance,Taxes,Tax types
+Finance,Transactional Finance,Asset Management (value & depreciation)
+Finance,Transactional Finance,WWCA & General Ledger Account (MD & Settings)
+Finance,Transactional Finance,Account determination & Valuation class (Transaction type & GL Stock & GL)
+Finance,Treasury,Bank Master
+Finance,Treasury,Business Partner
+Finance,Treasury,Cash Management
+Finance,Treasury,House Bank and House Bank accounts
+Finance,Treasury,Foreign Exchange
+Finance,Treasury,Direct and Indirect quoted Exchange Rate
+Human Resources,Employee Management,Personal*
+Human Resources,Employee Management,Employee Data Not Sensitive*
+Human Resources,Employee Management,Headcount KPI
+Human Resources,Employee Management,Job Information*
+Human Resources,Employee Management,CEW
+Human Resources,Talent Management,Performance & Development*
+Human Resources,Position Management,Position*
+Human Resources,Position Management,Organizational Information*
+Human Resources,Position Management,FTE KPI
+Human Resources,Rewards,Compensation*
+Human Resources,Payroll,Payroll Master Record
+Human Resources,Payroll,Payroll Accuracy (End-to-End)
+Human Resources,Payroll,Payroll Accuracy (Internal)
+Human Resources,Payroll,Total Number of Employees with inaccurate payroll (absolute value)
+Human Resources,Payroll,Payment Timeliness
+Human Resources,Recruitment,Candidate Profile Master
+Human Resources,Recruitment,Professional Experience
+Human Resources,Recruitment,Education History
+Human Resources,Recruitment,Job Requisition
+Human Resources,Recruitment, Application Source Tracking
+Human Resources,Recruitment,Recruitment Workflow Logs
+Human Resources,Recruitment,Time to Fill 
+Human Resources,Recruitment,Offer Acceptance Rate
+Human Resources,Recruitment,Drop-off Rate by Funnel Stage
+Human Resources,Recruitment,Profile Completeness Score
+Human Resources,Recruitment,Conversion Rate by Source Channel
+Human Resources,Recruitment,GDPR Consent Records
+Human Resources,Learning,Learning module Catalog
+Human Resources,Learning,Training Completion Records
+Human Resources,Learning,Learning User Data Master
+Human Resources,Learning,Certification Repository
+Human Resources,Learning,Certification Rate (for Mandatory programs)
+Human Resources,Learning,Learning Path Assignments
+Human Resources,Learning,Feedback & Evaluation Scores
+Human Resources,Learning,Training Completion Rate
+Human Resources,Learning,Average Training Hours per Employee
+Human Resources,Learning,Cross-charging tracking
+Human Resources,Learning,Training Budget Utilization
+Marketing,Campaigns (plan/delivery),Media Campaigns
+Marketing,Campaigns (plan/delivery),Media Spend
+Marketing,Campaigns (plan/delivery),Consumer/HCP non media digital campaigns
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Penetration (HHP)
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Organic search
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Geolocation
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Social Intelligence
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Shopper surveys
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Retail 2nd P consumer data (cards)
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Occasions
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Benefit platforms
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Touchpoints surveys
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",Demand Gen Surveys
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",HCP surveys
+Marketing,"Consumer, Shopper, HCP (declarative + behavioral)",D2C transactions (HH centric)
+Marketing,Marketing Content,Licensing
+Marketing,Marketing Content,"Marketing Content Tests (e.g., A/B tests)"
+Marketing,Owned assets & platforms (digital),Digital Asset Mgmt (DAM)
+Marketing,Owned assets & platforms (digital),Consumer/HCP Web Analytics
+Marketing,Owned assets & platforms (digital),Publisher platforms perf
+Marketing,Owned assets & platforms (digital),Online / media ratings
+Marketing,Owned assets & platforms (digital),CRM assets
+Marketing,CRM & identity management,"CDP-like data (predictive, segments)"
+Marketing,CRM & identity management,HCP MedReps CRM (identity & platform)
+Marketing,CRM & identity management,HCP Identity & consent management
+Marketing,CRM & identity management,Consumer Identity & consent management
+Marketing,CRM & identity management,Other CDP type of data (influencers)
+Marketing,Competition / benchmarking,TV/Offline Share of voice
+Marketing,Competition / benchmarking,Online Share of voice
+Marketing,Competition / benchmarking,Industry benchmarks
+Marketing,Tests,Copy Testing
+Marketing,Tests,Concept Testing
+Marketing,Tests,Full Mix Testing 
+Marketing,Tests,Pack testing (NIQ)
+Marketing,Tests,Effectiveness surveys (uplifts)
+Marketing,Tests,IRO business case (TBD)
+Marketing,Brand Performance,Brand Health Tracker (BHT)
+Marketing,Brand Performance,Distinctive Brand Asset (DBA)
+Marketing,Brand Performance,Sell-out (RMS) off premise
+Marketing,Brand Performance,Sell-out (RMS) on premise
+Marketing,Brand Performance,Sell-out (RMS) from retailer data -  Sales
+Marketing,Brand Performance,Difficult channels (eg proxy) sell-out
+Marketing,"Market/Categ/TA def. size, trends, drivers","Context drivers (eg GDP, births)"
+Marketing,"Market/Categ/TA def. size, trends, drivers",Demand spaces
+Marketing,"Market/Categ/TA def. size, trends, drivers",Trends and macro shifts
+Marketing,"Market/Categ/TA def. size, trends, drivers",Categ & TA Sizing
+Marketing,"Market/Categ/TA def. size, trends, drivers",=$^p)m
+Marketing,"Market/Categ/TA def. size, trends, drivers",Specific marketing mappings
+Operations,Supply Chain Planning,Demand & Forecast
+Operations,Supply Chain Planning,Product New & Discontinued
+Operations,Supply Chain Planning,Production Plan
+Operations,Supply Chain Planning,Nbet 
+Operations,Supply Chain Planning,Transportation Requirements
+Operations,Supply Chain Planning,Material Requirements Plan
+Operations,Supply Chain Planning,Vendor Managed Inventory
+Operations,Warehousing,Themis Inventory - batch managed
+Operations,Warehousing,Themis Inventory - non-batch managed
+Operations,Warehousing,Non-Themis Inventory (SAP ERP)
+Operations,Warehousing,Non-Themis Inventory (Non-SAP ERP)
+Operations,Warehousing,Pallet level inventory
+Operations,Warehousing,Packing & Loading Specifications
+Operations,Warehousing,Co-Packing / re-packing / Subcontracting 
+Operations,Warehousing,"Receipts Interco, vendors & production"
+Operations,Warehousing,Plants
+Operations,Warehousing,Plants storage locations
+Operations,Warehousing,Supplier Consignment Stock
+Operations,Warehousing,Material movements
+Operations,"Logistics, Orchestration & Communication",Inbound deliveries
+Operations,"Logistics, Orchestration & Communication",inbound delivery returns
+Operations,"Logistics, Orchestration & Communication",Outbound Customer Orders & Service Level
+Operations,"Logistics, Orchestration & Communication",Outbound Logistics Complaints
+Operations,Manufacturing,3PM & Co-Manufacturing
+Operations,Manufacturing,Plant Maintenance Plan & Orders
+Operations,Manufacturing,Producion & Process Orders
+Operations,Manufacturing,Material Consumption
+Operations,Manufacturing,Production Performance
+Operations,Manufacturing,Milk & Liquids Management
+Operations,Manufacturing,Shop Floor
+Operations,Transparency & Traceability,FG/SFG/R&P Batch/Lot Traceability
+Operations,Transparency & Traceability,FG/SFG/R&P Pallet Traceability
+Operations,Transparency & Traceability,Serialization & Aggregation
+Operations,Transportation Management,Shipments
+Operations,Transportation Management,Deliveries
+Operations,Transportation Management,Trucks Fleet
+Operations,Transportation Management,Transportation Costs & Budget
+Operations,Transportation Management,Transportation Performance
+Operations,Transportation Management,Truck Utilization
+Operations,Transportation Management,Non-Themis in-transit
+Operations,Cycles & Procurement,Supplier & Risk Management
+Operations,Cycles & Procurement,Contract Management
+Operations,Cycles & Procurement,Other Material Types (indirect)
+Operations,Cycles & Procurement,Sourcing Management
+Operations,Cycles & Procurement,"Raw, Packs & Milk"
+Operations,Cycles & Procurement,Other Material Types (spare parts)
+Operations,Cycles & Procurement,Market Intelligence
+Research & Innovation,"Digital Health, Microbiome & Digital Services",Evidence Health data 
+Research & Innovation,"Digital Health, Microbiome & Digital Services",Microbiome & omics data
+Research & Innovation,Innovation Portfolio Project Mgmt. ,R&I explo portfolio
+Research & Innovation,Innovation Portfolio Project Mgmt. ,Inno / F4G project portfolio
+Research & Innovation,Innovation Portfolio Project Mgmt. ,R&I resources
+Research & Innovation,Innovation Portfolio Project Mgmt. ,Product test results (pilot/IT/Launch)
+Research & Innovation,Raw specification,Raw material spec
+Research & Innovation,Pack specification,Pack material spec
+Research & Innovation,Raw specification,Visa Food Safety
+Research & Innovation,Pack specification,Visa Food Safety
+Research & Innovation,Raw specification,Category spec 
+Research & Innovation,Pack specification,Category spec 
+Research & Innovation,Raw and Pack specification,Sourcing Approval R - (SAR)
+Research & Innovation,Raw specification,Raw brief
+Research & Innovation,Pack specification,Pack Brief
+Research & Innovation,Consumer Experience Mgmt.,Product Sensory
+Research & Innovation,Consumer Experience Mgmt.,"Product testing (quanti, quali), …"
+Research & Innovation,Consumer Experience Mgmt.,"Other UX data (video, audio, listening…)"
+Research & Innovation,Consumer Experience Mgmt.,"Innovations benchmarks (OFF, Mintel)"
+Research & Innovation,Pilot Prototyping,Prototype recipe
+Research & Innovation,Pilot Prototyping,"Pilot process (equipment, process)"
+Research & Innovation,Pilot Prototyping,Pilot Traceability
+Research & Innovation,Pilot Prototyping,Warehouse and logistic
+Research & Innovation,Pilot Prototyping,"Prototype analytics (physico, shelf life, micro …)"
+Research & Innovation,Master Recipe Finished Goods,Finish product spec
+Research & Innovation,Master Recipe Finished Goods,PPG/PPC
+Research & Innovation,Master Recipe Finished Goods,Master general recipe (design) 
+Research & Innovation,Master Recipe Finished Goods,Master plant formula (to BOM)
+Research & Innovation,Master Recipe Semi Finished Goods,Semi finish spec
+Research & Innovation,Master Recipe Semi Finished Goods,Process spec
+Research & Innovation,Master Recipe Semi Finished Goods,Label spec
+Research & Innovation,Master Recipe Semi Finished Goods,Master general recipe (design) 
+Research & Innovation,Master Recipe Semi Finished Goods,Master plant formula (to BOM)
+Sales,Assortment & OBPPC​,Core and Hero assortment
+Sales,Assortment & OBPPC​,Customer Assortments
+Sales,Assortment & OBPPC​,Price Pack Architecture
+Sales,Consumer Pricing,Gross List Price
+Sales,Consumer Pricing,"Price indexes (APO, CPI, SPI)"
+Sales,Consumer Pricing,rRSP
+Sales,Consumer Pricing,Price Elasticity
+Sales,Execution,Salesforce Management
+Sales,Execution,Store typology (strates)
+Sales,Execution,Customer Assortments (POS)
+Sales,Execution,Customer Merchandising plans
+Sales,Execution,In store audit (Field Force)
+Sales,Execution,Online Picos
+Sales,Mix Management,Accretive dilutive brand/ segments/ SKU’s/channel/ customer ​
+Sales,Promo Planning Optimization,Customer baseline 
+Sales,Promo Planning Optimization,External Market Promo (VOD/DOD)
+Sales,Promo Planning Optimization,Competitor & Product Mapping (TPO)
+Sales,Promo Planning Optimization,Customer Promotions 
+Sales,Promo Planning Optimization,Accruals & payments
+Sales,Route to market &  distributor Management,Channel and subchannel definition (exe KPI's)
+Sales,Route to market &  distributor Management,Total Cost to Serve (Logistics)
+Sales,Sell out POS  & 3rd party data,Customer POS (sell-out)
+Sales,Sell out POS  & 3rd party data,On Shelf Availability (OSA)
+Sales,Sell out POS  & 3rd party data,Store Geoloc external data 
+Sales,Trade Terms,Floorprices
+Sales,Trade Terms,Customer Trade Terms (G2N)
+Sales,Trade Terms,Gross Profiitability
+Sales,Trade Terms,Retail Media Investment
